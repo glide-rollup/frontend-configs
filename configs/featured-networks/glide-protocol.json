@@ -1,0 +1,22 @@
+[{
+    "title": "Glide L1 Offchain",
+    "url": "https://rpc-api.glideprotocol.xyz/l1-rpc",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/glide-rollup/frontend-configs/refs/heads/main/configs/network-icons/glide-ni-light.svg",
+    "isActive": true
+},
+{
+    "title": "Glide L2 Onchain",
+    "url": "https://rpc-api.glideprotocol.xyz/l2-rpc",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/glide-rollup/frontend-configs/refs/heads/main/configs/network-icons/glide-ni-light.svg",
+    "isActive": true
+},
+{
+    "title": "Glide Beacon Chain",
+    "url": "https://storage-onchain.glideprotocol.xyz/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/glide-rollup/frontend-configs/refs/heads/main/configs/network-icons/glide-ni-dark.svg",
+    "isActive": true
+}
+]
